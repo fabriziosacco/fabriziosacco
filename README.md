@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fabriziosacco
-- 👀 I’m interested in C / C++ / PHP
-- 🌱 I’m currently learning C/C++ teaching methods
+- 👀 I’m interested in C / C++ / PHP / Java / Python 
+- 🌱 I’m currently learning teaching methods
 - 📫 How to reach me: <http://fabriziosacco.it>
 
 <!---
